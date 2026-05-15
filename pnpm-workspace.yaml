@@ -7,18 +7,18 @@ catalogs:
   dev:
     '@antfu/eslint-config': ^9.0.0
     '@types/estree': ^1.0.9
-    '@types/node': ^25.7.0
+    '@types/node': ^25.8.0
     '@types/picomatch': ^4.0.3
     '@vitest/coverage-v8': ^4.1.6
     bumpp: ^11.1.0
     chokidar: ^5.0.0
-    eslint: ^10.3.0
+    eslint: ^10.4.0
     typescript: ^6.0.3
     unbuild: ^3.6.1
     vue-tsc: ^3.2.9
   playground:
-    '@vitejs/plugin-vue': ^6.0.6
-    vite: ^8.0.12
+    '@vitejs/plugin-vue': ^6.0.7
+    vite: ^8.0.13
     vite-plugin-inspect: ^11.3.3
     vue: ^3.5.34
   prod:
@@ -28,7 +28,7 @@ catalogs:
     local-pkg: ^1.1.2
     magic-string: ^0.30.21
     mlly: ^1.8.2
-    oxc-parser: ^0.130.0
+    oxc-parser: ^0.131.0
     pathe: ^2.0.3
     picomatch: ^4.0.4
     pkg-types: ^2.3.1
